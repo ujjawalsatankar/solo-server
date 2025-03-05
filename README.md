@@ -290,7 +290,7 @@ Refer example_apps for sample applications.
 1. [ai-chat](https://github.com/GetSoloTech/solo-server/tree/main/example_apps/ai-chat)
 
 ## 📝 Project Inspiration 
-
+nnhnynhnnujuj
 This project wouldn't be possible without the help of other projects like:
 
 * uv
@@ -305,3 +305,5 @@ This project wouldn't be possible without the help of other projects like:
 * cog
 
 Like using Solo, consider leaving us a ⭐ on GitHub
+git clone https://github.com/your-username/repo-name.git
+cd repo-name
